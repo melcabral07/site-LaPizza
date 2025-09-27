@@ -1,0 +1,16 @@
+
+*{
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    font-family: 'caprasimo', system-ui, Arial, sans-serif;
+    color: #222;
+    background-color: #e3bfbc;
+    line-height: 1.6;
+}
